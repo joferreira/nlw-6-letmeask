@@ -36,7 +36,7 @@ $ yarn
 $ yarn start
 
 O projeto estará disponível no seu navegador em http://localhost:3000
-📝 License
 
+📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
