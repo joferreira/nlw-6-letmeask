@@ -68,9 +68,9 @@ export function AuthContextProvider(props: AuthContextProviderProps){
 
     }
 
-    if(loading){
-        return <p></p> ;
-    }
+    // if(loading){
+    //     return <p></p> ;
+    // }
 
     return (
         <AuthContext.Provider value={{ user, signInWithGoogle }}>
